@@ -8,6 +8,8 @@ https://github.com/aa22396584/opencode-routing-playbook
 [Codeberg](https://codeberg.org/ImL1s/opencode-routing-playbook)
 
 
+> **Why this GitHub home?** Public development moved here from [`ImL1s/opencode-routing-playbook`](https://github.com/ImL1s/opencode-routing-playbook) because that GitHub account is currently restricted (anonymous visitors get 404 on the profile and many assets). This is the same project. Please open Issues and Pull Requests here.
+
 Reusable, sanitized OpenCode + oh-my-openagent routing profiles for different subscription and API-key combinations.
 
 This repo is intentionally **profile-first**: do not treat one config as universal. Pick a profile based on what the user actually has: GPT/OpenAI OAuth, OpenAI API key, OpenCode Go, Gemini/Google, Cursor local router, or a provider-diverse mix.
