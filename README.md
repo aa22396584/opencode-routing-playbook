@@ -1,8 +1,11 @@
 # OpenCode Routing Playbook
 
-> **Development home:** https://github.com/ImL1s/opencode-routing-playbook  
-> Please open issues and pull requests there.  
-> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/opencode-routing-playbook) · [GitLab](https://gitlab.com/aa22396584/opencode-routing-playbook)
+**Development, Issues & Pull Requests:**  
+https://github.com/aa22396584/opencode-routing-playbook
+
+**Mirrors:**  
+[GitLab](https://gitlab.com/aa22396584/opencode-routing-playbook) ·
+[Codeberg](https://codeberg.org/ImL1s/opencode-routing-playbook)
 
 
 Reusable, sanitized OpenCode + oh-my-openagent routing profiles for different subscription and API-key combinations.
